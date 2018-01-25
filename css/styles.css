@@ -1,7 +1,7 @@
-.radio {
-  padding: 10px 25px;
+.form-control {
+  padding: 25px 25px;
 }
 
-.form-control {
-  margin: 25px 25px;
+#show-price {
+  margin: 10px 0px;
 }
